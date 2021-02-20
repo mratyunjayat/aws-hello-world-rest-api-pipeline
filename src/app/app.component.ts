@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'todos';
+  welcomeMessage: string = "Hi Mratyunjaya...How r u doing today";
+
 }
